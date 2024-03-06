@@ -1,0 +1,14 @@
+/Users/sebarobbie/Documents/Coding/Polimorfismo/bin/Debug/net8.0/Polimorfismo
+/Users/sebarobbie/Documents/Coding/Polimorfismo/bin/Debug/net8.0/Polimorfismo.deps.json
+/Users/sebarobbie/Documents/Coding/Polimorfismo/bin/Debug/net8.0/Polimorfismo.runtimeconfig.json
+/Users/sebarobbie/Documents/Coding/Polimorfismo/bin/Debug/net8.0/Polimorfismo.dll
+/Users/sebarobbie/Documents/Coding/Polimorfismo/bin/Debug/net8.0/Polimorfismo.pdb
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/Polimorfismo.AssemblyInfoInputs.cache
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/Polimorfismo.AssemblyInfo.cs
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/Polimorfismo.csproj.CoreCompileInputs.cache
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/Polimorfismo.dll
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/refint/Polimorfismo.dll
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/Polimorfismo.pdb
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/Polimorfismo.genruntimeconfig.cache
+/Users/sebarobbie/Documents/Coding/Polimorfismo/obj/Debug/net8.0/ref/Polimorfismo.dll
